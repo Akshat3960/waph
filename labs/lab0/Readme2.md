@@ -8,7 +8,7 @@
 
 **Email**: chaturat@mail.cu.edu
 
-**Short-bio**: Phu Phung has keen interests in ethical hacking and secure software development. 
+**Short-bio**: I have a keen interest in web development and data science.
 
 ![Phu's headshot](images/headshot.jpg)
 
