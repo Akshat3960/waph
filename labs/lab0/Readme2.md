@@ -10,7 +10,7 @@
 
 **Short-bio**: I have a keen interest in web development and data science.
 
-![Phu's headshot](images/headshot.jpg)
+![Akshat's headshot](images/Headshot.jpg)
 
 ## Repository Information
 
