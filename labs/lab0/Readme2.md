@@ -12,6 +12,7 @@
 
 ![Akshat's headshot](../../images/Headshot.jpg)
 In this lab I did the following:
+
 1.Download and Install VirtualBox: Visit the VirtualBox website, download the latest version, and follow the installation instructions for your operating system.
 2.Download Ubuntu 22.04 ISO: Go to the official Ubuntu website and download the Ubuntu 22.04 LTS ISO file.
 3.Create a New Virtual Machine:
@@ -35,7 +36,7 @@ Respository's URL: [https://github.com/phungph-uc/waph-phungph.git](https://gith
 This is a private repository for Phu Phung to store all code from the course. The organization of this repository is as follows.
 
 ### Labs 
-
+![Lab](../../images/Apache 2 Default Page.jpg)
 [Hands-on exercises in lectures](labs) 
 
   - [Lab 0](labs/lab0): Development Environment Setup 
