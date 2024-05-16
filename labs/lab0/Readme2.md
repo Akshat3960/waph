@@ -11,7 +11,7 @@
 **Short-bio**: I have a keen interest in web development and data science.
 
 ![Akshat's headshot](../../images/Headshot.jpg)
-## Steps to Setup Ubuntu 22.04 Virtual Machine and Install required software applications
+In this lab I did the following:
 1.Download and Install VirtualBox: Visit the VirtualBox website, download the latest version, and follow the installation instructions for your operating system.
 2.Download Ubuntu 22.04 ISO: Go to the official Ubuntu website and download the Ubuntu 22.04 LTS ISO file.
 3.Create a New Virtual Machine:
