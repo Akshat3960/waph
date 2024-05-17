@@ -33,7 +33,7 @@ In this lab I did the following:
 
 ## Repository Information
 
-Respository's URL: [https://github.com/phungph-uc/waph-phungph.git](https://github.com/phungph-uc/waph-phungph.git)
+Respository's URL: [https://github.com/Akshat3960/waph](https://github.com/Akshat3960/waph)
 
 This is a private repository for Phu Phung to store all code from the course. The organization of this repository is as follows.
 
