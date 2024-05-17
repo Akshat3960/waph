@@ -43,10 +43,3 @@ This is a private repository for Phu Phung to store all code from the course. Th
 
   
 
-### Hackations
-
-Hands-on hacking exercises
-
-### Individual Projects
-
-### Team Project
