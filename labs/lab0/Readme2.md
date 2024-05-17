@@ -37,7 +37,7 @@ This is a private repository for Phu Phung to store all code from the course. Th
 
 ### Labs 
 ![Lab](../../images/Apache.png)
-![Hands-on exercises in lectures](../../images/Terminal.jpg) 
+![Hands-on exercises in lectures](../../images/Terminal.png) 
 
   - [Lab 0](labs/lab0): Development Environment Setup 
 
