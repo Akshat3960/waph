@@ -11,6 +11,8 @@
 **Short-bio**: I have a keen interest in web development and data science.
 
 ![Akshat's headshot](../../images/Headshot.jpg)
+
+### LabReport
 In this lab I did the following:
 
 1.Download and Install VirtualBox: Visit the VirtualBox website, download the latest version, and follow the installation instructions for your operating system.
@@ -39,7 +41,7 @@ This is a private repository for Phu Phung to store all code from the course. Th
 ![Lab](../../images/Apache.png)
 ![Hands-on exercises in lectures](../../images/Terminal.png) 
 
-  - [Lab 0](labs/lab0): Development Environment Setup 
+  
 
 ### Hackations
 
