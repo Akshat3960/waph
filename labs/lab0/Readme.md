@@ -41,6 +41,7 @@ This is a private repository for Phu Phung to store all code from the course. Th
 ### Labs 
 ![Lab](../../images/Apache.png)
 ![Hands-on exercises in lectures](../../images/Terminal.png) 
+![Hands-on exercises in lectures](../../images/git_push.png) 
 
   
 
